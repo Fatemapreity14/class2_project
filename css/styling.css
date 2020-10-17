@@ -1,0 +1,75 @@
+.google{
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #f3ededb3;
+}
+.google img{
+    margin: auto;
+}
+
+
+.middle{
+
+width: 1400px;
+
+margin: auto;
+}
+
+.sentence{
+    text-align: center;
+    padding: 90px 0;
+}
+
+.sentence .word1{
+    color: #4285f4;
+}
+.sentence .word2{
+    color: #ea4335;
+}
+
+.sentence .word3{
+   color: #34a853;
+}
+
+.sentence .word4{
+  color: #fbbc05;
+}
+
+
+.sentence h1{
+    margin: 0;
+    max-width: 600;
+    max-width: 734px;
+    margin: auto;
+    font-size: 50px;
+}
+.photo{
+    width: 100%;
+}
+.photo img{
+    width: 100%;
+}
+
+.budget{}
+.budget h2{
+    margin: 0;
+    font-size: 60px;
+    max-width: 360px;
+    font-weight: 600;
+    padding-top: 60px;
+}
+.budget p{
+    font-size: 24px;
+    padding: 20px 0;
+}
+
+.works{
+    padding: 146px;
+    background: #34a853;
+    color: white;
+    text-align: center;
+}
+.works h1{
+    margin: 0;
+    font-size: 80px;
+}
